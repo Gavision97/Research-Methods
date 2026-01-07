@@ -1,0 +1,4 @@
+------ COVID LOCKDOWN (START & END)-----
+* start date:2020-03-22 (ref -> pause)
+* end date: 2023-05-11 (ref -> https://www.governor.ny.gov/news/governor-cuomo-announces-covid-19-restrictions-lifted-70-adult-new-yorkers-have-received-first?)
+------------
